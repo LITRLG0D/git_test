@@ -1,0 +1,2 @@
+test text for the git basics lesson on The Odin Project!
+checking my git status
